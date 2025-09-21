@@ -1,6 +1,6 @@
-# Aspora - Fintech for Indian Diaspora
+# Fintech for Indian Diaspora
 
-A mobile-first web app prototype for Aspora, a fintech platform designed for the Indian diaspora. This is a demo prototype showcasing a rupee-denominated account that reduces churn by letting customers hold INR, earn interest, and use that balance directly.
+This is a demo prototype showcasing a rupee-denominated account that reduces churn by letting customers hold INR, earn interest, and use that balance directly.
 
 ## 🚀 Features
 
@@ -248,3 +248,4 @@ This is a demo prototype for demonstration purposes. For production use, ensure 
 ---
 
 **⚠️ Important**: This is a demo prototype with no real financial functionality. Do not use for actual money transfers or financial transactions.
+
